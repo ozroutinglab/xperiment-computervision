@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------------------------------
+Hands-On Computer Vision with OpenCV 4, Keras, and TensorFlow 2
+--------------------------------------------------------------------------------------------------------
+URL:    
+https://youtube.com/playlist?list=PLTgRMOcmRb3NRHnGZkR_KPHgRTD5bjjkx&si=CAOL9eb7jPHqH8Wk
+--------------------------------------------------------
+
+Do you want to understand how computers see images and videos? Using artificial intelligence, we can enable computers and smart devices to interpret what is in an image (computer vision).
+
+This can provide massive benefits when it comes to automating tasks for which images are vital, such as examining medical images or enabling self-driving cars to see. Already, these applications are creating a massive industry around computer vision—one that is set to grow rapidly, with some sources predicting that it will be worth over $43 billion by 2023.
+
+This course provides you with a perfect foundation from which to understand computer vision and supports your professional development in this fast-growing arena. We first learn the basic concepts and explore these using OpenCV4, the most popular open-source computer vision library. Next, we explore using Machine Learning in computer vision, including the use of deep learning (using TensorFlow 2.0 and Keras) to implement advanced image classifiers.
+
+This course is designed to help data scientists, and those who already have some familiarity with ML and DL (and experience with Python, Keras, and TensorFlow), to gain a solid understanding of OpenCV and train their own computer vision deep learning models.
+
+The code bundle for this course is available at https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-OpenCV-4-Keras-and-TensorFlow-2
+
+This course is for data scientists and machine learning/deep learning engineers who are familiar with deep learning and want to build modern and highly-efficient computer vision applications.
+
+Prior experience in Python (along with Keras and TensorFlow) is assumed. An existing basic-level knowledge of OpenCV would be beneficial but isn't mandatory as it will also be covered in this course.
+
+--------------------------------------------------------------------------------------------------------

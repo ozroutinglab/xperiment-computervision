@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------------------------------
+OpenCV Python Course - Learn Computer Vision and AI
+--------------------------------------------------------------------------------------------------------
+URL: https://youtu.be/P4Z8_qe2Cu0?si=UvA32aAWySUQhdY3
+
+--------------------------------------------------------
+Learn how to use OpenCV for Computer Vision and AI in this full course for beginners. You will learn and get exposed to a wide range of exciting topics like Image & Video Manipulation, Image Enhancement, Filtering, Edge Detection, Object Detection and Tracking, Face Detection and the OpenCV Deep Learning Module.
+
+At the end of the course you will hear from Dr. Satya Mallick (CEO, OpenCV.org) where he shares his views on the limitless opportunities in the Computer Vision and AI job market and how to confidently prepare yourself in a structured manner for a fulfilling career in AI.
+
+🔗 Course Website: https://opencv.org/university/free-opencv-course/
+🔗 Official OpenCV Courses: https://opencv.org/courses / https://opencv.org/university/
+🔗 Kickstarter: https://opencv.org/kickstarter
+
+💻 Code: https://www.dropbox.com/sh/e9geq90qno...
+
+❤️ Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) Intro 
+⌨️ (0:03:20) Module 1: Getting Started with Images 
+⌨️ (0:22:22) Module 2: Basic Image Manipulation 
+⌨️ (0:30:56) Module 3: Image Annotation 
+⌨️ (0:35:39) Module 4: Image Enhancement 
+⌨️ (0:52:35) Module 5: Accessing the Camera 
+⌨️ (0:55:28) Module 6: Read and Write Videos 
+⌨️ (0:59:08) Module 7: Image Filtering and Edge Detection 
+⌨️ (1:11:24) Module 8: Image Features and Image Alignment
+⌨️ (1:24:16) Module 9: Image Stitching and Creating Panoramas 
+⌨️ (1:27:13) Module 10: High Dynamic Range Imaging (HDR) 
+⌨️ (1:38:28) Module 11: Object Tracking 
+⌨️ (1:49:28) Module 12: Face Detection 
+⌨️ (1:59:41) Module 13: Object Detection 
+⌨️ (2:08:33) Module 14: Pose Estimation using OpenPose 
+⌨️ (2:22:21) Interview with OpenCV CEO, Dr. Satya Mallick 
+
+Learn More:
+🔗 https://learnopencv.com    / learnopencv  
+🔗 https://opencv.org    / opencvcourses  
+
+This course was made possible through a grand from OpenCV.
+
+🎉 Thanks to our Champion and Sponsor supporters:
+👾 Wong Voon jinq
+👾 hexploitation
+👾 Katia Moran
+👾 BlckPhantom
+👾 Nick Raker
+👾 Otis Morgan
+👾 DeezMaster
+👾 Treehouse
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
+
+--------------------------------------------------------------------------------------------------------
